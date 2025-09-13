@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+Pillow
+pytesseract
+SpeechRecognition
+gTTS
+torch
+transformers
+scikit-learn
+folium
+streamlit-folium
